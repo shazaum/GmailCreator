@@ -1,0 +1,8 @@
+selenium
+requests
+unidecode
+free-proxy
+webdriver_manager
+Faker
+fake_useragent
+lxml
